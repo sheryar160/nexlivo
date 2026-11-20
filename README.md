@@ -1,0 +1,3 @@
+# NEXLIVO
+
+**NEXLIVO** is an international business information and entrepreneurship platform built with React, TypeScript, Vite, and Tailwind CSS. It introduces visitors to 14 modern business models—spanning real estate, e-commerce, online trading, business formation, digital marketing, freelancing, AI opportunities, graphic design, content creation, import and export, online education, business consulting, software and apps, and financial services—with step-by-step beginner guidance, required skills and resources, risk analysis, FAQs, search and category filtering, legal pages, and Cloudflare Workers static asset support.
