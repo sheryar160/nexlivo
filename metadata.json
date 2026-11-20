@@ -1,0 +1,8 @@
+{
+  "name": "NEXLIVO",
+  "description": "NEXLIVO is an international business information platform exploring entrepreneurship, digital business models, investments, and modern industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
